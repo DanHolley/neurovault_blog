@@ -11,7 +11,7 @@ This blog entry covers:
 ## Part 1: Getting Started and Uploading Your First Image
 <p>Upon navigating to www.neurovault.org, users can login to access an existing account, or follow the login process to create an account:</p>
 
-![](https://miro.medium.com/max/1400/1*f1EYfSBkIem57b0qFFw-Vg.png)
+![](images/login_image.png)
 
 Once you’ve logged in, navigate back to the NeuroVault landing page, and click “Get started and upload an image!”:
 
