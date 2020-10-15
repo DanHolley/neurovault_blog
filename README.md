@@ -14,7 +14,7 @@ This blog entry covers:
 Upon navigating to <a href="https://www.neurovault.org">www.neurovault.org</a>, users can login to access an existing account, or follow the login process to create an account:
 
 <p align="center">
-<img src="images/login_image.png">
+<img src="images/login_image.png" style="max-width:600px;width:100%">
 </p>
 
 ### 1.2.
