@@ -15,7 +15,7 @@ This blog entry covers:
 <p>Upon navigating to www.neurovault.org, users can login to access an existing account, or follow the login process to create an account:</p>
 
 <p align="center">
-![](images/login_image.png)
+<img src="images/login_image.png">
 </p>
 
 <br>
