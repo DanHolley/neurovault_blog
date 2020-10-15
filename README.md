@@ -23,7 +23,7 @@ This blog entry covers:
 Once you’ve logged in, navigate back to the NeuroVault landing page, and click “Get started and upload an image!”:
 
 <p align="center">
-![](images/nv_1.gif)
+<img src="images/nv_1.gif">
 </p>
 
 <br>
@@ -31,7 +31,7 @@ Once you’ve logged in, navigate back to the NeuroVault landing page, and click
 You’ll arrive at a page entitled “My collections.” To upload an image, first create a collection. This is the place to detail important aspects of your subjects, design, acquisition, registration, etc. Although the only required field is the name of your collection, found under the ‘Essentials’ tab, we encourage users to peruse the tabs and be as descriptive as possible in the interest of preventing unintentional misuse of datasets.
 
 <p align="center">
-![](images/nv_2.gif)
+<img src="images/nv_2.gif">
 </p>
 
 <br>
