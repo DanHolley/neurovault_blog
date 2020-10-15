@@ -13,6 +13,8 @@ This blog entry covers:
 
 ![](images/login_image.png)
 
+
+
 Once you’ve logged in, navigate back to the NeuroVault landing page, and click “Get started and upload an image!”:
 
 ![](images/nv_1.gif)
